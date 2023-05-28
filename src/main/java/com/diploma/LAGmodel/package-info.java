@@ -1,1 +1,0 @@
-package com.diploma.LAGmodel;
